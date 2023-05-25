@@ -64,3 +64,31 @@ forecast = NeuralProphet().predict(df=df, freq = "H")
 #%% CAT BOOST
 
 
+#%% LIGHT GBM
+
+
+
+
+
+
+
+#%% XGBOOST
+
+
+
+
+
+
+#%% RANDOM FOREST
+
+
+
+
+
+
+#%% LINEAR REGRESSION
+
+
+
+
+
